@@ -1,7 +1,7 @@
 {
     "app_id": "com.moodle.moodlemobile",
     "appname": "Impact Tutors",
-    "desktopappname": "Moodle Desktop",
+    "desktopappname": "Impact Tutors Desktop",
     "versioncode": 3800,
     "versionname": "3.8.0-dev",
     "cache_update_frequency_usually": 420000,
