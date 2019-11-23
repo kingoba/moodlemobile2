@@ -2,7 +2,7 @@
 <widget id="com.moodle.moodlemobile" version="3.8.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Impact Tutors</name>
     <description>Impact Tutors official app</description>
-    <author email="obalua@hotmail.com" href="http://trackonesystems.com">TrackOne Systems Dev Team</author>
+    <author email="kingoba@hotmail.com" href="http://trackonesystems.com">TrackOne Systems Dev Team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
